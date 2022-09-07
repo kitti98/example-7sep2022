@@ -1,6 +1,6 @@
-# Name of Streamlit App
+# example-7sep2022
 
-Description of the app ...
+Blah blah blah ...
 
 ## Demo App
 
